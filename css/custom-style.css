@@ -1,0 +1,12 @@
+.menu-usuario > li > a:hover{
+  background-color: #595959;
+  color: #FFF;
+}
+
+.total-width{
+    width: 100%;
+}
+
+.font-dosis{
+  font-family: 'Dosis', sans-serif;
+}
